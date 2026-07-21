@@ -63,21 +63,7 @@
 
 Projet en cours de développement —  
 📌 Équipe composée de `[6]` membres répartis en frontend / backend / base de données.
-
 ---
-
-## 📸 Aperçu
-
-Ajoutez ici des captures d’écran ou wireframes.
-
----
-
-## 🤝 Crédits / Auteurs
-
-- **Nom 1** – Développement PHP  
-- **Nom 2** – Intégration frontend  
-- **Nom 3** – Conception base de données  
-- **Nom 4** – UI/UX design
 
 ---
 
@@ -90,5 +76,5 @@ Ce projet est sous licence MIT – utilisation et modification libre.
 ## 📬 Contact
 
 📧 Pour nous contacter : `contact@urbaverse.eco`  
-🌐 Site web : `https://urbaverse.local` *(à adapter selon domaine réel)*
+🌐 Site web : `https://urbaverse.local`
 
